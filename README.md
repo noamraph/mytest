@@ -8,3 +8,7 @@ Now let's add the donkey!
 No donkey...
 
 But this is a sentence!
+
+Now, this is a change in another branch.
+
+And another!

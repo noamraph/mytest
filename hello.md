@@ -2,7 +2,7 @@
 
 Hi, this is a new file in a pull request. How does it work?
 
-![donkey](i/donkey.jpeg)
+![fish](fish.jpg)
 
 ## A subtitle
 
